@@ -17,6 +17,6 @@ The code can be executed in Google Colab by following the guideline below:
 3. Create a folder and subfolder named **kaggle_dataset/detect/** in the root of your Google Drive, and upload all the files previously downloaded.
 4. Click on "Run all" under the Runtime menu or use the Ctrl+F9 shortcut.
 5. At the begining of the execution the code requires to access the required files by mounting your Google Drive. Click on the provided link, copy the generated code by Google, and paste it in the next line within the given box.
-6. The program would keep running showing a detection progress bar untill reaching 100% and ends by generating four images verification
+6. The program would keep running and ends by generating four images verification
 
 <img src = "detect.jpg" width=410>
