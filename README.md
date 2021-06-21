@@ -3,7 +3,7 @@
 Brain_Tumor_Detection repository
 
 
-## Social Distancing Detection Online Execution on Colab
+##  Online Execution on Colab
 
 <img src = "SD.jpg" width=410>
 
