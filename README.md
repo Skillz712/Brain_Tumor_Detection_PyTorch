@@ -3,7 +3,7 @@
 Brain_Tumor_Detection repository
 
 
-##  Online Execution on Colab
+##  Online Execution on Google Colab
 
 <img src = "SD.jpg" width=410>
 
